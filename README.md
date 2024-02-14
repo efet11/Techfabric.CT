@@ -1,6 +1,6 @@
 # Overview
 
-This project was is based on React and use Cypress for component testing of project's components.
+This project is based on React and use Cypress for component testing of project's components.
 
 ## Available Scripts
 
